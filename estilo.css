@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+H1{ 
+   color: #F6C;
+   font-size:36px;
+   font:"Times New Roman", Times, serif;
+   border-style:double;
+}
+ 
+ body{
+	 background-color:#9CF;
+ }
+	 
+
